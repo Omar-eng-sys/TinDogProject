@@ -20,8 +20,6 @@ This project was built as part of the [Dr. Angela Yu Web Development Bootcamp] t
 
 ![Preview of TinDog](./images/Screenshot.png)
 
-> 💡 Replace `screenshot.png` with your own preview image of the homepage.
-
 ---
 
 ## 🚀 Technologies Used
